@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="testdb" uuid="65c3e160-86fe-40ce-907f-9225cc80cdcb" />
+    <data-source name="exam2" uuid="4e3f0b20-55fe-4100-aee4-55d64420da55" />
+  </component>
+</project>
